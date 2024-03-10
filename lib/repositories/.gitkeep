@@ -1,0 +1,2 @@
+git add myfolder/.gitkeep
+git commit -m "Add .gitkeep file to myfolder"
